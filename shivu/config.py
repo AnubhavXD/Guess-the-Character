@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -1002138258128
     TOKEN = "7125549226:AAGufzEcBEhoHbcPo-x93ulDF8y6lQ6CjFY"
     mongo_url = "mongodb://mongo:cpmRievpABDRrCVtXfXSSMDSOKcdCkpl@roundhouse.proxy.rlwy.net:58803"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    PHOTO_URL = ["https://telegra.ph/file/c147cc4bbcf37552a326e.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "GuessTheCharacterGroup"
     UPDATE_CHAT = "GuessTheCharacterUpdates"
     BOT_USERNAME = "GuessTheMovieCharacterBot"
